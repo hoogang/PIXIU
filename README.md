@@ -555,6 +555,15 @@ If you use PIXIU in your work, please cite our paper.
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+
+@misc{hu2024language,
+      title={No Language is an Island: Unifying Chinese and English in Financial Large Language Models, Instruction Data, and Benchmarks}, 
+      author={Gang Hu and Ke Qin and Chenhan Yuan and Min Peng and Alejandro Lopez-Lira and Benyou Wang and Sophia Ananiadou and Wanlong Yu and Jimin Huang and Qianqian Xie},
+      year={2024},
+      eprint={2403.06249},
+      archivePrefix={arXiv},
+      primaryClass={cs.CE}
+}
 ```
 
 ## License
